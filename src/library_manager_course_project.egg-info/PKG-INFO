@@ -1,0 +1,5 @@
+Metadata-Version: 2.4
+Name: library-manager-course-project
+Version: 1.0.0
+Summary: Week 3 object-oriented library loan manager
+Requires-Python: >=3.11
