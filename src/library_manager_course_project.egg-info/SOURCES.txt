@@ -1,0 +1,15 @@
+README.md
+pyproject.toml
+src/library_manager/__init__.py
+src/library_manager/__main__.py
+src/library_manager/cli.py
+src/library_manager/exceptions.py
+src/library_manager/models.py
+src/library_manager/repository.py
+src/library_manager/service.py
+src/library_manager_course_project.egg-info/PKG-INFO
+src/library_manager_course_project.egg-info/SOURCES.txt
+src/library_manager_course_project.egg-info/dependency_links.txt
+src/library_manager_course_project.egg-info/entry_points.txt
+src/library_manager_course_project.egg-info/top_level.txt
+tests/test_service.py
