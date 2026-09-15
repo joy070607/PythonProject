@@ -4,6 +4,12 @@
       "isbn": "9788966260959",
       "title": "파이썬 코딩의 기술",
       "author": "브렛 슬라킨",
+      "status": "loaned"
+    },
+    {
+      "isbn": "279040162038",
+      "title": "수레바퀴 아래서",
+      "author": "헤르만 헤세",
       "status": "available"
     }
   ],
@@ -14,6 +20,13 @@
       "borrower": "student01",
       "borrowed_at": "2026-09-15T05:03:02.696503+00:00",
       "returned_at": "2026-09-15T05:06:10.285491+00:00"
+    },
+    {
+      "loan_id": "e414a91133d0",
+      "book_isbn": "9788966260959",
+      "borrower": "student01",
+      "borrowed_at": "2026-09-15T05:14:08.626115+00:00",
+      "returned_at": null
     }
   ]
 }
